@@ -1,0 +1,17 @@
+/*
+Author: Ayushi Anand
+Theme: Resturant Food Order
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 80%;
+    border: 2px solid red;
+    margin: 0 auto;
+    padding:  1%;
+}
